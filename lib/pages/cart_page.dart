@@ -12,6 +12,14 @@ class CartPage extends StatelessWidget {
         foregroundColor: Theme.of(context).colorScheme.inversePrimary,
         title: Center(child: Text('Cart Page')),
       ),
+      backgroundColor: Theme.of(context).colorScheme.background,
+      body: Column(
+        children: [
+          //cart list
+
+          //pay button
+        ],
+      ),
     );
   }
 }
