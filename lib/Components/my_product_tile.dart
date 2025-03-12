@@ -58,14 +58,15 @@ class MyProductTile extends StatelessWidget {
               AspectRatio(
                 aspectRatio: 1,
                 child: Container(
-                    decoration: BoxDecoration(
-                        color: Theme.of(context).colorScheme.secondary,
-                        borderRadius: BorderRadius.circular(12)),
-                    width: double.infinity,
-                    padding: EdgeInsets.all(25),
-                    child: Icon(Icons.favorite)),
+                  decoration: BoxDecoration(
+                      color: Theme.of(context).colorScheme.secondary,
+                      borderRadius: BorderRadius.circular(12)),
+                  width: double.infinity,
+                  padding: EdgeInsets.all(25),
+                  child: Image.asset(product.imagePath),
+                ),
               ),
-              SizedBox(
+              const SizedBox(
                 height: 25,
               ),
               //product name
