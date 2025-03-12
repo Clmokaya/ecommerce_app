@@ -1,6 +1,4 @@
-# ecommerce_app
-
-# Ecommerce App (Flutter)
+# ecommerce_app(Flutter)
 
 A simple Flutter-based ecommerce application using Provider for state management. Browse products, add to cart, and simulate online purchases.
 
