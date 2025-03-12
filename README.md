@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 ![image alt](https://github.com/Clmokaya/ecommerce_app/blob/07902d9496579be98a05e603d4ff5771d3366db1/Web_Photo_Editor%20(1).png)
-
+![image alt](https://github.com/Clmokaya/ecommerce_app/blob/d1672a697fa5f58d72558cff50e987ccc8f65bc9/Web_Photo_Editor.png)
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
