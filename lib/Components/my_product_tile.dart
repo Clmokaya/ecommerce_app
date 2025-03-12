@@ -26,6 +26,7 @@ class MyProductTile extends StatelessWidget {
                 //yes button
                 MaterialButton(
                   onPressed: () {
+                    //pop dialog box
                     Navigator.pop(context);
 
                     //add to cart
