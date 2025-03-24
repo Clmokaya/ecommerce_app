@@ -25,7 +25,7 @@ class IntroPage extends StatelessWidget {
             //title
             Text(
               'Minimal Shop',
-              style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
+              style: TextStyle(fontWeight: FontWeight.bold, fontSize: 19),
             ),
             const SizedBox(
               height: 10,
