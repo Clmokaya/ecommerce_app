@@ -20,7 +20,7 @@ class IntroPage extends StatelessWidget {
               color: Theme.of(context).colorScheme.inversePrimary,
             ),
             const SizedBox(
-              height: 25,
+              height: 24,
             ),
             //title
             Text(
